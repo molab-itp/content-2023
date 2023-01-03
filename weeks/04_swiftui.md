@@ -11,7 +11,7 @@
 
 - [AVAudioPlayer](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 - [swiftui](https://developer.apple.com/documentation/swiftui)
-- [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
+- [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/model-data)
 
 ## XCode indent preference
 
