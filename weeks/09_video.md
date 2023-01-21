@@ -32,4 +32,4 @@
 
 ## Homework
 
-- [wiki home page week09](https://github.com/mobilelabclass-itp/content/wiki#week-09-homework)
+- [wiki home page week09](https://github.com/mobilelabclass-itp/content-2023/wiki#week-09-homework)

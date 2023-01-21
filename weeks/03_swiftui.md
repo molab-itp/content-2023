@@ -15,7 +15,7 @@
 
 - review homework
 
-  - [02-Ascii-Play-updated.playground](https://github.com/mobilelabclass-itp/00-Playground/tree/main/02-Ascii-Play-updated.playground)
+  - [03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
 
 - individual assessments
 
@@ -23,9 +23,9 @@
 
 - intro to swift ui
 
-  - [ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/00-Playground/tree/main/ImageUiDemo-1-symbols)
+  - [ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/ImageUiDemo-1-symbols)
 
-  - [ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/00-Playground/tree/main/ImageUiDemo-2-urls)
+  - [ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/ImageUiDemo-2-urls)
 
 ## Homework
 
@@ -35,7 +35,7 @@
 
 - add a link to your project on
 
-  - [wiki home page week03](https://github.com/mobilelabclass-itp/content/wiki#week-03-homework)
+  - [wiki home page week03](https://github.com/mobilelabclass-itp/content-2023/wiki#week-03-homework)
   - **Due by Thursday 11:59pm Feb 17**
 
 - submit questions

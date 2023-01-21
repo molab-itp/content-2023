@@ -23,7 +23,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Syllabus Overview
 
-- 1 -- [Introduction](weeks/01_intro.md)
+- 1 -- [Swift Programming 1, Introduction](weeks/01_intro.md)
 
 - 2 -- [Swift Programming 2, Anatomy of an iOS App](weeks/02_swift.md)
 

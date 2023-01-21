@@ -54,4 +54,4 @@
 
 ## Homework
 
-- [wiki home page week07](https://github.com/mobilelabclass-itp/content/wiki#week-07-homework)
+- [wiki home page week07](https://github.com/mobilelabclass-itp/content-2023/wiki#week-07-homework)

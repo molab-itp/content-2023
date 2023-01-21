@@ -36,6 +36,6 @@
 
 ## Homework
 
-- [wiki home page week10](https://github.com/mobilelabclass-itp/content/wiki#week-10-homework)
+- [wiki home page week10](https://github.com/mobilelabclass-itp/content-2023/wiki#week-10-homework)
 
 Document work on your final project in your wiki page.

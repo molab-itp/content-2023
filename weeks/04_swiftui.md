@@ -27,7 +27,7 @@
 
   - decoding the docs
 
-  - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/00-Playground/tree/main/04-Audio-State-Demo)
+  - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
 
 ## Homework
 
@@ -35,7 +35,7 @@
 
 - add a link to your project on
 
-  - [wiki home page week04](https://github.com/mobilelabclass-itp/content/wiki#week-04-homework)
+  - [wiki home page week04](https://github.com/mobilelabclass-itp/content-2023/wiki#week-04-homework)
   - **Due by Thursday 11:59pm Feb 24**
 
 - submit questions

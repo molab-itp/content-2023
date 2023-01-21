@@ -2,7 +2,7 @@
 
 ## Review last week
 
-- [01-MoLab-Notes](https://github.com/mobilelabclass-itp/content/blob/main/assets/01-MoLab-Notes.pdf)
+- [01-MoLab-Notes](https://github.com/mobilelabclass-itp/content-2023/blob/main/assets/01-MoLab-Notes.pdf)
 
 ## Plan
 
@@ -14,9 +14,11 @@
 
   - wiki layout
 
-- review playgrounds
+- review
 
-  - [00-Playground](https://github.com/mobilelabclass-itp/00-Playground)
+  - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+  - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+
   - [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
   - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
@@ -36,12 +38,10 @@
 
 ## Homework
 
-- create a Xcode playground that uses print function to create ascii art
+- create a repo for a Xcode playground creates an 1024x1024 image
 
-- add playground to your repo
+- add a link to your playground repo on the
 
-- add a link to your playground on the
-
-  - [wiki home page](https://github.com/mobilelabclass-itp/content/wiki)
+  - [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
 
 - submit questions

@@ -46,7 +46,7 @@
 
 - add a link to your project on
 
-  - [wiki home page week06](https://github.com/mobilelabclass-itp/content/wiki#week-06-homework)
+  - [wiki home page week06](https://github.com/mobilelabclass-itp/content-2023/wiki#week-06-homework)
   - **Due by Thursday 11:59pm Mar 10**
 
 - submit questions

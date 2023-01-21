@@ -26,7 +26,7 @@
 - review demos - demos split out into individual repos for easier access
 
   - [03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
-  - [03-ImageDemo-2-urls](https://github.com/mobilelabclass-itp/03-ImageDemo-2-urls)
+  - [03-ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/03-ImageUiDemo-2-urls)
 
   - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
 
@@ -46,7 +46,7 @@
 
 - add a link to your project on
 
-  - [wiki home page week05](https://github.com/mobilelabclass-itp/content/wiki#week-05-homework)
+  - [wiki home page week05](https://github.com/mobilelabclass-itp/content-2023/wiki#week-05-homework)
   - **Due by Thursday 11:59pm Mar 3**
 
 - submit questions

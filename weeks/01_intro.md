@@ -16,7 +16,7 @@
 
 - Introduction to Mobile Lab
 - prior versions of the course
-  - [2022 molab jht](https://github.com/mobilelabclass-itp/content)
+  - [2022 molab jht](https://github.com/mobilelabclass-itp/content-2023)
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
@@ -37,6 +37,8 @@ Covers everything Apple (iOS, macOS, tvOS, watchOS)
 Use search to be selective, or [browse by Topics](https://developer.apple.com/videos/topics/)
 
 ### WWDC Sample Code
+
+Sample code is recommend starting point. Download and verify it works before investing your time.
 
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
@@ -88,18 +90,21 @@ consider doing over the next weeks in parallel with our course.
 
   - what resources do you plan to use?
   - be prepare to discuss your impressions in class.
-  - Ok to change later.
+  - Ok to change revise later
 
-- review [00-Playground.playground](https://github.com/mobilelabclass-itp/00-Playground)
+- review
 
-- create a git repo for homework exercises and projects
+  - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+  - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
 
-- create a Xcode playground to explore emoji's and add it to your repo
+- create a git repo this home work, name it week01
+
+- add a Xcode playground to explore emoji's and add it to your repo
 
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays
 
-- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
+- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023-2023/wiki)
 
 ## Notes
 
