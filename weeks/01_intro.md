@@ -25,7 +25,9 @@
 - iOS Devices Capabilities
 - iOS Libraries
 
-## Resources - Apple Platform
+## Apple Platform Resources
+
+### WWDC Video Tutorials
 
 Use to explore your final project options.
 
@@ -34,13 +36,19 @@ Use to explore your final project options.
 Covers everything Apple (iOS, macOS, tvOS, watchOS)  
 Use search to be selective, or [browse by Topics](https://developer.apple.com/videos/topics/)
 
+### WWDC Sample Code
+
+- [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
+- [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
+- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+
 ## Resources - Swift
 
 Apples official tour of the Swift language
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
-### Quick Guides
+### Swift Quick Guides
 
 1 - 2 hours overview for experienced coders and beginners
 
@@ -48,7 +56,7 @@ Apples official tour of the Swift language
 
 - [Learn Swift for C++ Developers](https://www.advancedswift.com/learn-swift-cpp/)
 
-### Fundamentals
+### Swift Fundamentals
 
 1 - 2 days
 
@@ -58,7 +66,7 @@ Apples official tour of the Swift language
 
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 
-### Multi-week Swift Programming Tutorials
+### Swift Multi-week Programming Tutorials
 
 consider doing over the next weeks in parallel with our course.
 
@@ -68,7 +76,7 @@ consider doing over the next weeks in parallel with our course.
 
 - [Stanford University: CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
-## Resources - Github
+## Github Resources
 
 - [Git and GitHub for Poets - Dan Shiffman videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
