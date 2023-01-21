@@ -8,7 +8,7 @@
 
 - [xcode app install](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
-- [vs code - for note taking](https://code.visualstudio.com)
+- [vs code - for note taking](https://code.visualstudio.com) or some other text editor
 
 <!-- - [sf symbols app install](https://developer.apple.com/sf-symbols/) -->
 
@@ -58,7 +58,7 @@ Apples official tour of the Swift language
 
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 
-### In depth multi-week courses
+### Multi-week Swift Programming Tutorials
 
 consider doing over the next weeks in parallel with our course.
 
@@ -77,9 +77,10 @@ consider doing over the next weeks in parallel with our course.
 ## Homework
 
 - write a brief description on your wiki page about your plan to learn Swift programming fundamentals.
-- what resources do you plan to use?
-- be prepare to discuss your impressions in class.
-- Ok to change later.
+
+  - what resources do you plan to use?
+  - be prepare to discuss your impressions in class.
+  - Ok to change later.
 
 - review [00-Playground.playground](https://github.com/mobilelabclass-itp/00-Playground)
 
