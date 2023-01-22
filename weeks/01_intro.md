@@ -50,17 +50,9 @@ Apples official tour of the Swift language
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
-### Swift Quick Guides
-
-1 - 2 hours overview for experienced coders and beginners
-
-- [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
-
-- [Learn Swift for C++ Developers](https://www.advancedswift.com/learn-swift-cpp/)
-
 ### Swift Fundamentals
 
-1 - 2 days
+1 - 2 days. pick one.
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 1 - 14
 
@@ -68,9 +60,17 @@ Apples official tour of the Swift language
 
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 
+### Swift Quick Review
+
+1 - 2 hours overview for experienced coders and beginners. pick one.
+
+- [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
+
+- [Learn Swift for C++ Developers](https://www.advancedswift.com/learn-swift-cpp/)
+
 ### Swift Multi-week Programming Tutorials
 
-consider doing over the next weeks in parallel with our course.
+consider doing over the next weeks in parallel with our course. pick one.
 
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - 100
 
@@ -92,9 +92,21 @@ consider doing over the next weeks in parallel with our course.
 
 - create a playground
 
-- review [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+- open clone using github desktop
 
-- review [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+  - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+  - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+  -
+
+- (optional) clone wiki
+
+```
+# enter in Terminal app
+# select location of wiki
+cd ~/Documents
+# clone local copy of wiki
+git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
+```
 
 ## Homework
 
@@ -105,6 +117,7 @@ consider doing over the next weeks in parallel with our course.
   - what resources do you plan to use?
   - be prepare to discuss your impressions in class.
   - Ok to change revise later
+  -
 
 - create a git repo this home work, name it week01
 
@@ -112,9 +125,11 @@ consider doing over the next weeks in parallel with our course.
 
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays
+  -
 
 - add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
 
-<!-- ## Notes
-
-[01-MoLab-Notes](../assets/01-MoLab-Notes.pdf) -->
+<!--
+## Notes
+[01-MoLab-Notes](../assets/01-MoLab-Notes.pdf)
+ -->
