@@ -84,28 +84,29 @@ consider doing over the next weeks in parallel with our course.
 
 - [github desktop doc](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 
+## Review
+
+- [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+- [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+
 ## Homework
 
-- write a brief description on your wiki page about your plan to learn Swift programming fundamentals.
+- review the Swift resources select a learning path to learn learn Swift programming fundamentals
 
+  - write a brief summary of your plan on your wiki page
   - what resources do you plan to use?
   - be prepare to discuss your impressions in class.
   - Ok to change revise later
 
-- review
-
-  - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
-  - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
-
 - create a git repo this home work, name it week01
 
-- add a Xcode playground to explore emoji's and add it to your repo
+- create a Xcode playground to explore emoji's and add it to your repo
 
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays
 
-- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023-2023/wiki)
+- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
 
-## Notes
+<!-- ## Notes
 
-[01-MoLab-Notes](../assets/01-MoLab-Notes.pdf)
+[01-MoLab-Notes](../assets/01-MoLab-Notes.pdf) -->
