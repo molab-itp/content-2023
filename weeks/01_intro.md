@@ -84,15 +84,23 @@ consider doing over the next weeks in parallel with our course.
 
 - [github desktop doc](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 
-## Review
+## Class Exercises
 
-- [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
-- [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+- review [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+
+- review [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+
+- add github account to https://github.com/mobilelabclass-itp
+
+- create student wiki page
+
+- create a playground
 
 ## Homework
 
-- review the Swift resources select a learning path to learn learn Swift programming fundamentals
+- review the Swift resources
 
+  - select a learning path for Swift programming fundamentals
   - write a brief summary of your plan on your wiki page
   - what resources do you plan to use?
   - be prepare to discuss your impressions in class.
