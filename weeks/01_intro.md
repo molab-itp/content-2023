@@ -8,7 +8,7 @@
 
 - [xcode app install](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
-- [vs code - for note taking](https://code.visualstudio.com) or some other text editor
+- [vs code - optional for note taking](https://code.visualstudio.com) or some other text editor
 
 <!-- - [sf symbols app install](https://developer.apple.com/sf-symbols/) -->
 
@@ -86,15 +86,15 @@ consider doing over the next weeks in parallel with our course.
 
 ## Class Exercises
 
-- review [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
-
-- review [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
-
 - add github account to https://github.com/mobilelabclass-itp
 
 - create student wiki page
 
 - create a playground
+
+- review [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+
+- review [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
 
 ## Homework
 
