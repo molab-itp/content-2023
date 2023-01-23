@@ -21,7 +21,7 @@
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
 - Swift Programming - history and evolution
-- My mobile apps
+- My mobile apps: SiteClone | MedCampus | DICECPU
 <!--
 - iOS Devices Capabilities
 - iOS Libraries
