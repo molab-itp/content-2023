@@ -20,10 +20,12 @@
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
-- Swift Programming
-  - history and evolution
+- Swift Programming - history and evolution
+- My mobile apps
+<!--
 - iOS Devices Capabilities
 - iOS Libraries
+  -->
 
 ## Apple Platform Resources
 
@@ -38,7 +40,7 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
 
 ### WWDC Sample Code
 
-Sample code is recommend starting point. Download and verify it works before investing your time.
+Sample code is recommend starting point for exploring what's possible for a final project. Download and verify the sample works before investing your time in further research.
 
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
@@ -50,7 +52,7 @@ Apples official tour of the Swift language
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
-### Swift Fundamentals
+### Swift Programming Fundamentals
 
 1 - 2 days. pick one.
 
@@ -60,7 +62,7 @@ Apples official tour of the Swift language
 
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 
-### Swift Quick Review
+### Swift Programming Quick Review
 
 1 - 2 hours overview for experienced coders and beginners. pick one.
 
@@ -68,11 +70,11 @@ Apples official tour of the Swift language
 
 - [Learn Swift for C++ Developers](https://www.advancedswift.com/learn-swift-cpp/)
 
-### Swift Multi-week Programming Tutorials
+### Swift Programming Multi-week Tutorials
 
 consider doing over the next weeks in parallel with our course. pick one.
 
-- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - 100
+- [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - n (n < 100)
 
 - [kodeco.com - your-first-ios-swiftui-app](https://www.kodeco.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
 
@@ -86,13 +88,18 @@ consider doing over the next weeks in parallel with our course. pick one.
 
 ## Class Exercises
 
-- add github account to https://github.com/mobilelabclass-itp
+- create your student wiki page and write:
 
-- create student wiki page
+  - what programming languages have you used?
+  - what is your favorite mobile app and why?
+  - if you have a concept for a final project write a short description
+  -
+
+- add github account to https://github.com/mobilelabclass-itp
 
 - create a playground
 
-- open clone using github desktop
+- use github desktop to clone these repos:
 
   - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
@@ -101,6 +108,7 @@ consider doing over the next weeks in parallel with our course. pick one.
 - (optional) clone wiki
 
 ```
+# script to clone the class wiki
 # enter in Terminal app
 # select location of wiki
 cd ~/Documents
@@ -112,11 +120,11 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - review the Swift resources
 
-  - select a learning path for Swift programming fundamentals
+  - select resource(s) for learning Swift programming fundamentals
   - write a brief summary of your plan on your wiki page
-  - what resources do you plan to use?
-  - be prepare to discuss your impressions in class.
-  - Ok to change revise later
+  - and note what resources you plan to use
+  - be prepare to discuss your impressions of the swift learning resources that you try in class.
+  - it is OK to revise your plan as you go
   -
 
 - create a git repo this home work, name it week01
