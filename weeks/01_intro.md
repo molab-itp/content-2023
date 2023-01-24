@@ -113,8 +113,9 @@ consider doing over the next weeks in parallel with our course. pick one.
 
 ## Class Exercises
 
-- create your student wiki page and write:
+- update your student wiki page and write:
 
+  - your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
   - what programming languages have you used?
   - what is your favorite mobile app and why?
   - if you have a concept for a final project write a short description
@@ -148,11 +149,11 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
   - select resource(s) for learning Swift programming fundamentals
   - write a brief summary of your plan on your wiki page
   - and note what resources you plan to use
-  - be prepare to discuss your impressions of the swift learning resources that you try in class.
+  - be prepare to discuss in class your impressions of the swift learning resources that you used
   - it is OK to revise your plan as you go
   -
 
-- create a git repo this home work, name it week01
+- create a git repo this home work, name it Week01
 
 - create a Xcode playground to explore emoji's and add it to your repo
 
