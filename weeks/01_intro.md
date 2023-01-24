@@ -76,6 +76,7 @@ Sample code is recommend starting point for exploring what's possible for a fina
 - [videos/wwdc2022](https://developer.apple.com/videos/wwdc2022)
 - [videos/wwdc2021](https://developer.apple.com/videos/wwdc2021)
 - [videos/wwdc2020](https://developer.apple.com/videos/wwdc2020)
+- [videos/wwdc2019](https://developer.apple.com/videos/wwdc2019)
   ...
 - [videos/wwdc2014](https://developer.apple.com/videos/wwdc2014)
 
