@@ -60,7 +60,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 5.  02/21/23
 6.  02/28/23
 7.  03/07/23
-    03/14 -- break
+    [03/14 -- no class ]
 8.  03/21/23
 9.  03/28/23
 10. 04/04/23
