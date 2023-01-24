@@ -28,7 +28,7 @@
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
-- My mobile apps: SiteClone | MedCampus | SongClips | DICECPU
+- My mobile apps: SiteClone | MedCampus | SongClips | DICECPU | MoGallery
 - [the epvisual team](http://www.johnhenrythompson.com/ep-visual)
 - [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
 <!--
