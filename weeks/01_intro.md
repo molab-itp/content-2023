@@ -10,7 +10,7 @@
 
 - [vs code - optional for note taking](https://code.visualstudio.com) or some other text editor
 
-<!-- - [sf symbols app install](https://developer.apple.com/sf-symbols/) -->
+- [sf symbols app install](https://developer.apple.com/sf-symbols/)
 
 ## Overview
 
