@@ -51,6 +51,24 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 14 -- Final Presentation and Critiques
 
+## Dates
+
+1.  01/24/23
+2.  01/31/23
+3.  02/07/23
+4.  02/14/23
+5.  02/21/23
+6.  02/28/23
+7.  03/07/23
+    03/14 -- break
+8.  03/21/23
+9.  03/28/23
+10. 04/04/23
+11. 04/11/23
+12. 04/18/23
+13. 04/25/23
+14. 05/02/23
+
 ## Office hours
 
 - [Office hours: \_\_\_\_]()
