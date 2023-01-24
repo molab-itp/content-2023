@@ -15,18 +15,42 @@
 ## Overview
 
 - Introduction to Mobile Lab
+- About me
+- About you
+- Privacy
+- Workflow
+- Challenges
+
+## History
+
 - prior versions of the course
   - [2022 molab jht](https://github.com/mobilelabclass-itp/content-2023)
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
-- Swift Programming - history and evolution
 - My mobile apps: SiteClone | MedCampus | SongClips | DICECPU
+- [the epvisual team](http://www.johnhenrythompson.com/ep-visual)
 - [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
 <!--
 - iOS Devices Capabilities
 - iOS Libraries
   -->
+
+## Swift Programming
+
+- history and evolution
+
+  - 2014 Swift 1.0 September 9, 2014
+  - 2015 Swift 2.0 September 21, 2015
+  - 2016 Swift 3.0 September 13, 2016
+  - 2017 Swift 4.0 September 19, 2017
+  - 2019 Swift 5.0 March 25, 2019
+  - 2022 Swift 5.7.1 November 1, 2022
+  -
+
+- SwiftUI
+
+  - WWDC 2019
 
 ## Apple Platform Resources
 
