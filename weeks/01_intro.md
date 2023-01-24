@@ -123,7 +123,9 @@ consider doing over the next weeks in parallel with our course. pick one.
 
 - add github account to https://github.com/mobilelabclass-itp
 
-- create a playground
+- use Xcode to create a playground
+
+- create a repo for you playground
 
 - use github desktop to clone these repos:
 
