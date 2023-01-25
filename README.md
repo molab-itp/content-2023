@@ -71,7 +71,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Office hours
 
-- [Office hours: \_\_\_\_]()
+- [Office hours: Thursdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
 # Policies
 
