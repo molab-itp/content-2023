@@ -19,6 +19,8 @@
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 <!-- - [Apple Swift Docs - for developer](https://developer.apple.com/documentation/swift) -->
 
+- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
+
 - review
 
   - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
