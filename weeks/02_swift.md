@@ -8,11 +8,11 @@
 
 - review homework & corrections
 
-  - setting up and using github repo
+- setting up and using github repo
 
-  - where to write stuff
+- where to write stuff
 
-  - wiki page update
+- wiki page update
 
 - (optional) clone wiki
 
@@ -32,34 +32,30 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 <!-- - [Apple Swift Docs - for developer](https://developer.apple.com/documentation/swift) -->
 
-- review
+## review
 
-  - [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
-  - [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
+- [01-Javascript-to-Swift](https://github.com/mobilelabclass-itp/01-Javascript-to-Swift)
+- [01-Playground](https://github.com/mobilelabclass-itp/01-Playground)
 
-- new stuff
+## new stuff
+
+- breakout rendering options for unicode and system images
 
   - [01-UIRender-playground](https://github.com/mobilelabclass-itp/01-UIRender-playground)
 
-    - breakout rendering options for unicode and system images
-    -
+- animals in ascii
 
   - [02-Ascii-Play](https://github.com/mobilelabclass-itp/02-Ascii-Play)
-    - animals in ascii
-    -
+
+- creating an icon in swiftui in the playground
+
   - [02-Icon-Image](https://github.com/mobilelabclass-itp/)
-    - creating an icon in swiftui in the playground
-    -
 
-- lab activity
+## lab activity
 
-- break
+## break
 
 ## Demos
-
-<!-- - demo - app on device
-  - [camera-app article](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
-    - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip) -->
 
 [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
@@ -75,9 +71,9 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 ## Homework
 
-- create a git repo named Week02
+- create a git repo named Week02-[(your-nickname)](https://en.wikipedia.org/wiki/Nickname)
 
-- create an Xcode playground that makes an 1024x1024 image in the Week02 repo
+- create an Xcode playground that makes an 1024x1024 image in repo **Week02-(your-nickname)**
 
 - add a link to your Week02 repo on the
 
