@@ -14,6 +14,17 @@
 
   - wiki layout
 
+- (optional) clone wiki
+
+```
+# script to clone the class wiki
+# enter in Terminal app
+# select location of wiki
+cd ~/Documents
+# clone local copy of wiki
+git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
+```
+
 ## Docs
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
