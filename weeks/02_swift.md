@@ -49,7 +49,7 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - creating an icon in swiftui in the playground
 
-  - [02-Icon-Image](https://github.com/mobilelabclass-itp/)
+  - [02-Icon-Image](https://github.com/mobilelabclass-itp/02-Icon-Image)
 
 ## lab activity
 
