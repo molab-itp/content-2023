@@ -27,6 +27,12 @@
 
   - [ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/ImageUiDemo-2-urls)
 
+- demo - anatomy of an iOS App
+
+  - [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) start
+  - [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) end - 4hr 25min Estimated Time
+  <!-- - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip) -->
+
 ## Homework
 
 - complete resources recommended in your individual assessment
