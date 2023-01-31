@@ -55,16 +55,24 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - break
 
-- demo - app on device
+<!-- - demo - app on device
   - [camera-app article](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
-    - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip)
+    - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip) -->
+
+https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos
+Capturing and Displaying Photos
+Browsing Your Photos
+
+https://github.com/mobilelabclass-itp/98-MoGallery
 
 ## Homework
 
-- create a repo for a Xcode playground creates an 1024x1024 image
+- create a git repo named Week02
+
+- create a repo for a Xcode playground that makes an 1024x1024 image
 
 - add a link to your playground repo on the
 
   - [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
 
-- submit questions
+  - update your wiki page with any issues

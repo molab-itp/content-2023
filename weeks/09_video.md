@@ -12,6 +12,10 @@
 
 - video / combine app demo
 
+- demo - app on device
+  - [camera-app article](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
+    - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip)
+
 ### Resources
 
 - [Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721/)
