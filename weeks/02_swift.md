@@ -12,7 +12,7 @@
 
   - where to write stuff
 
-  - wiki layout
+  - wiki page update
 
 - (optional) clone wiki
 
@@ -25,12 +25,12 @@ cd ~/Documents
 git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 ```
 
+- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
+
 ## Docs
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 <!-- - [Apple Swift Docs - for developer](https://developer.apple.com/documentation/swift) -->
-
-- [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
 
 - review
 
