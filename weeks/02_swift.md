@@ -10,7 +10,7 @@
 
   - setting up and using github repo
 
-  - how to write questions
+  - where to write stuff
 
   - wiki layout
 
