@@ -63,7 +63,11 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
-    -  Browsing Your Photos
+    -  Browsing Your Photos - Apple Tutorial Tutorial
+
+[98-CaptureCameraStorage](https://github.com/mobilelabclass-itp/98-CaptureCameraStorage)
+
+    - Tutorial adapted to Xcode project
 
 [98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
 
