@@ -69,9 +69,9 @@ https://github.com/mobilelabclass-itp/98-MoGallery
 
 - create a git repo named Week02
 
-- create a repo for a Xcode playground that makes an 1024x1024 image
+- create an Xcode playground that makes an 1024x1024 image in the Week02 repo
 
-- add a link to your playground repo on the
+- add a link to your Week02 repo on the
 
   - [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
 
