@@ -73,7 +73,7 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - create a git repo named Week02-[(your-nickname)](https://en.wikipedia.org/wiki/Nickname)
 
-- create an Xcode playground that makes an 1024x1024 image in repo **Week02-(your-nickname)**
+- create an Xcode playground that makes an 1024x1024 image in repo \*\*Week02-(your-nickname)
 
 - add a link to your Week02 repo on the
 
