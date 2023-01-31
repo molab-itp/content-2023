@@ -27,7 +27,7 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - [markdownguide quick summary](https://www.markdownguide.org/cheat-sheet/)
 
-## Docs
+## Resources
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 <!-- - [Apple Swift Docs - for developer](https://developer.apple.com/documentation/swift) -->
@@ -54,6 +54,8 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 - lab activity
 
 - break
+
+## Demos
 
 <!-- - demo - app on device
   - [camera-app article](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
