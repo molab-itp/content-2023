@@ -59,11 +59,13 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
   - [camera-app article](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
     - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip) -->
 
-https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos
-Capturing and Displaying Photos
-Browsing Your Photos
+[Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
 
-https://github.com/mobilelabclass-itp/98-MoGallery
+    -  Browsing Your Photos
+
+[98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
+
+    - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
 
 ## Homework
 
