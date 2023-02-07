@@ -64,12 +64,11 @@
 
 - submit questions
 
-## Remix Challenge
+## Final Project Inspiration
 
-- If you are feeling comfortable with Swift/SwiftUI and need a challendge
-  consider adding your own twist to one of these apps. Be sure acknowledge the source of your re-mix in your comments
+- Possible basis and inspiration for final projects
 
-- [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
+<!-- - [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine) -->
 
 - [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
 
