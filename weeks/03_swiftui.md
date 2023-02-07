@@ -48,6 +48,18 @@
 - demo - anatomy of an iOS App
 -->
 
+## Final Project Inspiration
+
+- Possible basis and inspiration for final projects
+
+<!-- - [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine) -->
+
+- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
+
+- [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
+
+- [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/)
+
 ## Homework
 
 - complete any missing work
@@ -62,16 +74,4 @@
 
   - [wiki home page week03](https://github.com/mobilelabclass-itp/content-2023/wiki#week-03-homework)
 
-- submit questions
-
-## Final Project Inspiration
-
-- Possible basis and inspiration for final projects
-
-<!-- - [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine) -->
-
-- [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
-
-- [Image-to-Ascii-Art](https://github.com/liamrosenfeld/Image-to-Ascii-Art)
-
-- [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/)
+- write your questions on your wiki page
