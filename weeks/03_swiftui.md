@@ -7,6 +7,10 @@
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 - [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
 
+## Playground review
+
+[03-closures-ints-strings](https://github.com/mobilelabclass-itp/03-closures-ints-strings)
+
 ## Apple SwiftUI Resources
 
 - [WWDC 2019 Introducing SwiftUI: Building Your First App - 55min](https://developer.apple.com/videos/play/wwdc2019/204/)
@@ -62,11 +66,10 @@
 
 ## Remix Challenge
 
-- If you are comfortable with Swift and need a challendge consider adding your own twist to one of these apps. Be sure acknowledge the source of your re-mix in your comments
+- If you are feeling comfortable with Swift/SwiftUI and need a challendge
+  consider adding your own twist to one of these apps. Be sure acknowledge the source of your re-mix in your comments
 
-- [camera-app-with-swiftui-and-combine](https://www.raywenderlich.com/26244793-building-a-camera-app-with-swiftui-and-combine)
-
-- [FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip)
+- [camera-app-with-swiftui-and-combine](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
 
 - [spritekit-using-spriteview](https://www.hackingwithswift.com/quick-start/swiftui/how-to-integrate-spritekit-using-spriteview)
 
