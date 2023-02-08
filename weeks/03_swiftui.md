@@ -29,8 +29,8 @@
 
 - [03-About-Me](https://github.com/mobilelabclass-itp/03-About-Me)
   - [sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
-  - requires the latest version of the Playground App, runs on macOS and iPad
-  - extract source for Xcode using "Show Package Contents" Finder option
+  - requires the latest version of the [Swift Playgrounds App](https://apps.apple.com/us/app/swift-playgrounds/id908519492), runs on macOS and iPad
+  - extract source for Xcode using Finder option "Show Package Contents"
 
 ## Final Project Inspiration
 
