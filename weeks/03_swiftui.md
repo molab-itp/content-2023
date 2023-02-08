@@ -1,11 +1,12 @@
 # Week 03 Swift UI 1, Images
 
-<!-- ## Resource checkin
-
+<!--
+## Resource checkin
 - [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
-- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
+- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
+-->
 
 ## Playground review
 
@@ -22,31 +23,14 @@
 
 ## SwiftUI Example Repo
 
-[03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
+- [03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
 
-[03-ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/03-ImageUiDemo-2-urls)
+- [03-ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/03-ImageUiDemo-2-urls)
 
-[03-About-Me](https://github.com/mobilelabclass-itp/03-About-Me)
-
-- [sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
-
-<!--
-- review homework
-
-  - [03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
-
-- individual assessments
-
-- break
-
-- intro to swift ui
-
-  - [ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/ImageUiDemo-1-symbols)
-
-  - [ImageUiDemo-2-urls](https://github.com/mobilelabclass-itp/ImageUiDemo-2-urls)
-
-- demo - anatomy of an iOS App
--->
+- [03-About-Me](https://github.com/mobilelabclass-itp/03-About-Me)
+  - [sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
+  - requires the latest version of the Playground App, runs on macOS and iPad
+  - extract source for Xcode using "Show Package Contents" Finder option
 
 ## Final Project Inspiration
 
