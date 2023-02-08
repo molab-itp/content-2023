@@ -77,6 +77,6 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
 - add a link to your Week02 repo on the
 
-  - [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
+  - [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki#week-02-homework)
 
   - update your wiki page with any issues

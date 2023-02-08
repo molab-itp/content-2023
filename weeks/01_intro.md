@@ -174,7 +174,7 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
   - eg. variables, for loops, arrays
   -
 
-- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki)
+- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content-2023/wiki#week-01-homework)
 
 <!--
 ## Notes
