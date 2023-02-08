@@ -69,7 +69,7 @@ git clone https://github.com/mobilelabclass-itp/content-2023.wiki.git
 
     - MoGallery is a mobile app for students to quickly create their own mobile multi user experiences
 
-## Homework
+## Homework Week02
 
 - create a git repo named Week02-[(your-nickname)](https://en.wikipedia.org/wiki/Nickname)
 

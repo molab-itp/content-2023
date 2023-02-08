@@ -60,7 +60,7 @@
 
 - [2D Games Using SpriteKit, SwiftUI and Algorand blockchain](https://developer.algorand.org/tutorials/developing-2d-games-using-spritekit-and-swiftui-part-1/)
 
-## Homework
+## Homework Week03
 
 - complete any missing work
 
