@@ -7,14 +7,20 @@
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 - [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
 
-## Review App
+## Review
 
 - [Unwrap app](https://apps.apple.com/app/id1440611372)
+
   - Learn coding with Swift by Paul Hudson
 
-## SwiftUI Apple Docs
+- [03-closures-ints-strings](https://github.com/mobilelabclass-itp/03-closures-ints-strings)
+  - Dictionary/Array/Struct/Class
+
+## Apple Resources
 
 - [AVAudioPlayer](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
+
+- [creating_custom_symbol_images_for_your_app](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app)
 
 <!-- ## XCode indent preference
 
