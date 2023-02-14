@@ -30,7 +30,7 @@
 
   - decoding the docs
 
-  - [04-Audio-State-Demo](https://github.com/mobilelabclass-i tp/04-Audio-State-Demo)
+  - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
 
 ## Homework
 
