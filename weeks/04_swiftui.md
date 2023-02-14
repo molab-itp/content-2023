@@ -1,21 +1,24 @@
 # Week 04 Swift UI 2, Audio
 
-## Resource reminder
+<!-- ## Resource reminder
 
 - [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
-- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
+- [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch) -->
+
+## Review App
+
+- [Unwrap app](https://apps.apple.com/app/id1440611372)
+  - Learn coding with Swift by Paul Hudson
 
 ## SwiftUI Apple Docs
 
 - [AVAudioPlayer](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
-- [swiftui](https://developer.apple.com/documentation/swiftui)
-- [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/model-data)
 
-## XCode indent preference
+<!-- ## XCode indent preference
 
-- ![xcode pref indent](../assets/xcode-pref-indent.png)
+- ![xcode pref indent](../assets/xcode-pref-indent.png) -->
 
 ## Plan
 
@@ -27,7 +30,7 @@
 
   - decoding the docs
 
-  - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
+  - [04-Audio-State-Demo](https://github.com/mobilelabclass-i tp/04-Audio-State-Demo)
 
 ## Homework
 
@@ -36,12 +39,11 @@
 - add a link to your project on
 
   - [wiki home page week04](https://github.com/mobilelabclass-itp/content-2023/wiki#week-04-homework)
-  - **Due by Thursday 11:59pm Feb 24**
 
 - submit questions
 
-## Remix Challenge
+## Final Project Resources
 
-- a challenge to consider: use audio capabities in this open source library
+- Consider audio capabities in this open source library for your final project
 
 - [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
