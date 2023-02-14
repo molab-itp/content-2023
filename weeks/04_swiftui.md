@@ -46,4 +46,4 @@
 
 - Consider audio capabities in this open source library for your final project
 
-- [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
+  - [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook)
