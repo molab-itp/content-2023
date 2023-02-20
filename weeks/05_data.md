@@ -20,7 +20,7 @@
 - [05-AppStorageDemo](https://github.com/mobilelabclass-itp/05-AppStorageDemo)
 - [05-ImageEditDemo](https://github.com/mobilelabclass-itp/05-ImageEditDemo)
 
-## Homework
+## Homework Week05
 
 - Option 1: continue working on past homework - make use of office hours
 
