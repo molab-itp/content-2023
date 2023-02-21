@@ -22,7 +22,7 @@
 
 - [05-Heart-Shapes](https://github.com/mobilelabclass-itp/05-Heart-Shapes)
 - [05-BubbleLevel](https://github.com/mobilelabclass-itp/05-BubbleLevel)
-- [05-Seismometer](https://github.com/mobilelabclass-itp/05-Seismometer.git)
+- [05-Seismometer](https://github.com/mobilelabclass-itp/05-Seismometer)
 
 ## Homework Week05
 
