@@ -16,12 +16,13 @@
 
 ## Examples Apps
 
-- [05-Heart-Shapes](https://github.com/mobilelabclass-itp/05-Heart-Shapes)
-- [05-BubbleLevel](https://github.com/mobilelabclass-itp/05-BubbleLevel)
-- [05-Seismometer](https://github.com/mobilelabclass-itp/05-Seismometer.git)
 - [05-TimerDemo](https://github.com/mobilelabclass-itp/05-TimerDemo)
 - [05-AppStorageDemo](https://github.com/mobilelabclass-itp/05-AppStorageDemo)
 - [05-ImageEditDemo](https://github.com/mobilelabclass-itp/05-ImageEditDemo)
+
+- [05-Heart-Shapes](https://github.com/mobilelabclass-itp/05-Heart-Shapes)
+- [05-BubbleLevel](https://github.com/mobilelabclass-itp/05-BubbleLevel)
+- [05-Seismometer](https://github.com/mobilelabclass-itp/05-Seismometer.git)
 
 ## Homework Week05
 
