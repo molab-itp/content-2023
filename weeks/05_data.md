@@ -7,6 +7,8 @@
 - [All SwiftUI property wrappers explained and compared](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
   Understanding "Source of Truth"
 
+- [mobilelabclass-itp github](https://github.com/mobilelabclass-itp)
+
 ### Sensor tutorials
 
 - [bubblelevel - sensors](https://developer.apple.com/tutorials/sample-apps/bubblelevel?language=swift)
@@ -14,7 +16,7 @@
 
 ## Examples Apps
 
-- [05-Heart](https://github.com/mobilelabclass-itp/05-Heart)
+- [05-Heart-Shapes](https://github.com/mobilelabclass-itp/05-Heart-Shapes)
 - [05-BubbleLevel](https://github.com/mobilelabclass-itp/05-BubbleLevel)
 - [05-Seismometer](https://github.com/mobilelabclass-itp/05-Seismometer.git)
 - [05-TimerDemo](https://github.com/mobilelabclass-itp/05-TimerDemo)
