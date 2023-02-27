@@ -1,4 +1,4 @@
-# Week 12 Final Project Workshop 1
+# Week 12 Final Project Workshop 2
 
 ## Plan
 
