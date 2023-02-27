@@ -1,4 +1,4 @@
-# Week 08 Photo Media
+# Week 07 Photo Media
 
 ## Plan
 
