@@ -4,17 +4,6 @@
 
 ## Plan
 
-- questions
-
-  - Ellie: How to connect tab to new swift page?
-
-  - Lauren: is it bad to include all files (like arrays) one page?
-    - how best to nest menus
-
-- how to research the docs
-
-- **Correction** Use iOS config for new xcode projects
-
 - review homework
 
 - break
@@ -23,14 +12,18 @@
 
 ### SwiftUI Demos
 
-- [iDine app](https://github.com/mobilelabclass-itp/iDine)
+- [iDine app](https://github.com/mobilelabclass-itp/06-iDine)
 
-  - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
+  - [source repo](https://github.com/twostraws/iDine)
+  - [hackingwithswift.com swiftui-tutorial](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
--
 - [Puppy adoption app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS)
 
-- [Clubapartment app](https://github.com/mobilelabclass-itp/swiftui.builds)
+  - [source repo](https://github.com/sameersyd/Wiggles-iOS)
+
+- [Clubapartment app](https://github.com/mobilelabclass-itp/06-swiftui.builds)
+
+  - [source repo](https://github.com/FranckNdame/swiftui.builds)
 
 ### Saving Data Demos
 
@@ -40,13 +33,12 @@
 
 ## Homework
 
-- summarize your progress and challenges to date on your wiki page
-
 - continue working on past assignments
+
+- consider one of the options presented for saving data and implement in one of your apps
 
 - add a link to your project on
 
   - [wiki home page week06](https://github.com/mobilelabclass-itp/content-2023/wiki#week-06-homework)
-  - **Due by Thursday 11:59pm Mar 10**
 
 - submit questions
