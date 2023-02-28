@@ -38,7 +38,7 @@
 
 - continue working on past assignments
 
-- consider one of the options presented for saving data and implement in one of your apps
+- consider one of the options presented for saving data and add to your app
 
 - add a link to your project on
 
