@@ -33,15 +33,15 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 5 -- [Local Data 1, Sensors](weeks/05_data.md)
 
-- 6 -- [Local Data 2](weeks/06_data.md)
+- 6 -- [Local Data 2, Files](weeks/06_data.md)
 
 - 7 -- [Photo Media](weeks/07_photo.md)
 
 - 8 -- [Video Media](weeks/08_video.md)
 
-- 9 -- [Multi User Experiences 1](weeks/09_multi.md)
+- 9 -- [Multi User Experience 1](weeks/09_multi.md)
 
-- 10 -- [Multi User Experiences 2](weeks/10_multi.md)
+- 10 -- [Multi User Experience 2](weeks/10_multi.md)
 
 - 11 -- Final Project Workshop 1
 

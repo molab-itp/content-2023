@@ -1,4 +1,4 @@
-# Week 09 Multi User Experiences 1
+# Week 09 Multi User Experience 1
 
 ## Resources
 

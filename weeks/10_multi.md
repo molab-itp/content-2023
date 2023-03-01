@@ -1,4 +1,4 @@
-# Week 10 Multi User Experiences 2
+# Week 10 Multi User Experience 2
 
 ## Plan
 
