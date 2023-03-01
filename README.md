@@ -53,7 +53,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Dates
 
-| Date | Week              |
+| Week | Date              |
 | :--- | :---------------- |
 | 1.   | 01/24/23          |
 | 2.   | 01/31/23          |
