@@ -1,4 +1,4 @@
-# Week 10 Review for Final Projects
+# Week 10 Multi User Experiences 2
 
 ## Plan
 
@@ -7,8 +7,6 @@
 - review homework
 
 - summarize your challenges (and progress) on your wiki page
-
-- [Test Frank's Gaggle App](https://testflight.apple.com/join/Z0B7L6Kp)
 
 - break
 

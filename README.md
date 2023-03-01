@@ -73,7 +73,9 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Office hours
 
-- [Office hours: Wednesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+- [Office hours: Wednesdays 1pm - 5pmm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+  -- Please enter a slot at least 6 hours before the time slot.
+  -- For example: if you want to see me for the 1pm time slot, enter the selection Wednesday morning.
 
 # Policies
 
