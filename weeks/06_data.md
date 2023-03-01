@@ -34,7 +34,7 @@
 - [06-Voice-Recorder](https://github.com/mobilelabclass-itp/06-Voice-Recorder)
   - [source repop](https://github.com/pinlunhuang/Voice-Recorder)
 
-## Homework
+## Homework Week06
 
 - continue working on past assignments
 
