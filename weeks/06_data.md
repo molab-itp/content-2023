@@ -32,7 +32,7 @@
 - [06-ChipsSaveJSON](https://github.com/mobilelabclass-itp/06-ChipsSaveJSON)
 
 - [06-Voice-Recorder](https://github.com/mobilelabclass-itp/06-Voice-Recorder)
-  - [source repop](https://github.com/pinlunhuang/Voice-Recorder)
+  - [source repo](https://github.com/pinlunhuang/Voice-Recorder)
 
 ## Homework Week06
 

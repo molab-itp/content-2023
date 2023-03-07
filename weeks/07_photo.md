@@ -14,7 +14,19 @@
 
 - photo library access
 
-- Mac Catalyst: mobile + desktop
+### Demo Apps
+
+- [07-SlideShowDemo](https://github.com/mobilelabclass-itp/07-SlideShowDemo)
+
+- [07-PhotoPickBlender](https://github.com/mobilelabclass-itp/07-PhotoPickBlender)
+
+- [07-FaceMesh](https://github.com/mobilelabclass-itp/07-FaceMesh)
+
+- [07-Instafilter](https://github.com/mobilelabclass-itp/07-Instafilter)
+  - A photo manipulation program using Core Image filters
+  - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui)
+  - [Instafilter article](https://www.hackingwithswift.com/books/ios-swiftui/instafilter-introduction)
+  - [source repo](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project13)
 
 ### Resources
 
@@ -24,7 +36,7 @@
 
 - [How to select images using PHPickerViewController with SwiftUI](https://levelup.gitconnected.com/how-to-select-images-using-phpickerviewcontroller-with-swiftui-da8bd3ec3d05)
 
-- [How to obtain photo data/metadata after being picked in PHPickerViewController?](https://developer.apple.com/forums/thread/654898)
+<!-- - [How to obtain photo data/metadata after being picked in PHPickerViewController?](https://developer.apple.com/forums/thread/654898) -->
 
 - [CoreImageFilterReference ](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Reference/CoreImageFilterReference/index.html)
 
@@ -32,13 +44,11 @@
 
   - [Article](https://medium.com/swlh/swiftui-read-the-average-color-of-an-image-c736adb43000)
 
-- [Instafilter - requires subscription](https://www.hackingwithswift.com/plus/solutions/instafilter)
-  - [methods_and_protocols_for_filter_creation](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation)
+- [methods_and_protocols_for_filter_creation](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation)
 
-### Photo Demo
+## Homework Week07
 
-- [08-PhotoPickBlender](https://github.com/mobilelabclass-itp/08-PhotoPickBlender)
-
-## Homework
-
-- [wiki home page week08](https://github.com/mobilelabclass-itp/content-2023/wiki#week-08-homework)
+- Create a photo manipulation app
+  - you can base it on one of the resources presented in class, adding your own twist
+  - add a link to your project here
+  - [wiki home page week07](https://github.com/mobilelabclass-itp/content-2023/wiki#week-07-homework)
