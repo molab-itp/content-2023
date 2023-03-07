@@ -74,8 +74,9 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 ## Extra Support
 
 - [Office hours: Wednesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
-  -- Please enter a slot at least 6 hours before the time slot.
-  -- For example: if you want to see me for the 1pm time slot, enter the selection Wednesday morning.
+
+  - Please enter a slot at least 6 hours before the time slot.
+  - For example: if you want to see me for the 1pm time slot, enter the selection Wednesday morning.
 
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
 - [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)
