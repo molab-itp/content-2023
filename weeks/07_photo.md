@@ -31,6 +31,8 @@
 
 ### Resources
 
+- [What’s the difference between @ObservedObject, @State, and @EnvironmentObject?](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject)
+
 - [Meet the new Photos picker - wwdc video tutorial](https://developer.apple.com/videos/play/wwdc2020/10652/)
 
 - [Selecting Photos and Videos in iOS](https://developer.apple.com/documentation/photokit/selecting_photos_and_videos_in_ios)
