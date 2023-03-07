@@ -33,9 +33,11 @@
 
 - [What’s the difference between @ObservedObject, @State, and @EnvironmentObject?](https://www.hackingwithswift.com/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject)
 
+- [managing-model-data-in-your-app - apple dev doc](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
+
 - [Meet the new Photos picker - wwdc video tutorial](https://developer.apple.com/videos/play/wwdc2020/10652/)
 
-- [Selecting Photos and Videos in iOS](https://developer.apple.com/documentation/photokit/selecting_photos_and_videos_in_ios)
+- [Selecting Photos and Videos in iOS - apple dev doc](https://developer.apple.com/documentation/photokit/selecting_photos_and_videos_in_ios)
 
 - [How to select images using PHPickerViewController with SwiftUI](https://levelup.gitconnected.com/how-to-select-images-using-phpickerviewcontroller-with-swiftui-da8bd3ec3d05)
 
@@ -47,7 +49,7 @@
 
 - [CoreImageFilterReference ](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Reference/CoreImageFilterReference/index.html)
 
-- [methods_and_protocols_for_filter_creation](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation)
+- [methods_and_protocols_for_filter_creation - apple dev doc](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation)
 
 ## Homework Week07
 
