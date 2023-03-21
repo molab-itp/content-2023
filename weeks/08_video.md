@@ -35,12 +35,12 @@
 ## Homework Week08
 
 - Option 1: Work on previous assignment
-  - create place holder git repo for past assigments
-  - analyze example code - add your comments
-  - continue studying Swift/SwiftUI and update wiki with your progress
+  - - create place holder git repo for past assigments
+  - - analyze example code - add your comments
+  - - continue studying Swift/SwiftUI and update wiki with your progress
 - Option 2: Create a video manipulation app
-  - you can base it on one of the resources presented in class, adding your own twist
-  - add a link to your project here
+  - - you can base it on one of the resources presented in class, adding your own twist
+  - - add a link to your project here
 - [wiki home page week08](https://github.com/mobilelabclass-itp/content-2023/wiki#week-08-homework)
 
 <!--
