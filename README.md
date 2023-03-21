@@ -49,7 +49,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 13 -- Final Project Workshop 3
 
-- 14 -- Final Presentation and Critiques
+- 14 -- Final Presentation and Review
 
 ## Dates
 

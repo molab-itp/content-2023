@@ -10,12 +10,40 @@
 
 - break
 
-- video / combine app demo
+- photo app review
 
-- demo - app on device
+- video app demo
+
+<!-- - demo - app on device
   - [camera-app article](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
-    - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip)
+    - [the code - FilterTheWorld.zip](https://koenig-media.raywenderlich.com/uploads/2021/10/FilterTheWorld.zip) -->
 
+### Review
+
+- reuse: combining audio with play/pause slide show
+- [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
+- [07-SlideShowDemo](https://github.com/mobilelabclass-itp/07-SlideShowDemo)
+  -- branch: audio
+
+- analyzing and adjusting filter intensity
+- [07-Instafilter](https://github.com/mobilelabclass-itp/07-Instafilter)
+
+### Video Demo
+
+- [08-FilterTheWorld](https://github.com/mobilelabclass-itp/08-FilterTheWorld)
+
+## Homework Week08
+
+- Option 1: Work on previous assignment
+  - create place holder git repo for past assigments
+  - analyze example code - add your comments
+  - continue studying Swift/SwiftUI and update wiki with your progress
+- Option 2: Create a video manipulation app
+  - you can base it on one of the resources presented in class, adding your own twist
+  - add a link to your project here
+- [wiki home page week08](https://github.com/mobilelabclass-itp/content-2023/wiki#week-08-homework)
+
+<!--
 ### Resources
 
 - [Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721/)
@@ -27,13 +55,4 @@
 - [Triggering events repeatedly using a timer](https://www.hackingwithswift.com/books/ios-swiftui/triggering-events-repeatedly-using-a-timer)
 
 - [MVVM with Combine Tutorial for iOS](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
-
-### Video/Combine Demo
-
-- [09-Instafilter](https://github.com/mobilelabclass-itp/09-Instafilter)
-
-- [09-FilterTheWorld](https://github.com/mobilelabclass-itp/09-FilterTheWorld)
-
-## Homework
-
-- [wiki home page week09](https://github.com/mobilelabclass-itp/content-2023/wiki#week-09-homework)
+-->

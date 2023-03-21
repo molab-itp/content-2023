@@ -2,6 +2,11 @@
 
 ## Resources
 
+https://github.com/mobilelabclass-itp/10-Location
+
+https://github.com/mobilelabclass-itp/10-Bucketlist
+--> 09
+
 ## Plan
 
 - questions

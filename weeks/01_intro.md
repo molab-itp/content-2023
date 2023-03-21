@@ -24,7 +24,7 @@
 ## History
 
 - prior versions of the course
-  - [2022 molab jht](https://github.com/mobilelabclass-itp/content-2023)
+  - [2022 molab jht](https://github.com/mobilelabclass-itp/content-2022)
   - [2018 - 2020 Sebastian Buys & Nien Lam - linebreak studio](https://www.linebreak.studio/about)
     - [@ itp.nyu.edu](https://itp.nyu.edu/classes/mobile-lab/)
     - [@ github](https://github.com/mobilelabclass/content)
