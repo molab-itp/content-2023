@@ -12,18 +12,28 @@
 
 ### SwiftUI Demos
 
+Examples of using data, typically stored as JSON, to describe the navigational layout of views.
+
 - [iDine app](https://github.com/mobilelabclass-itp/06-iDine)
+  "restaurant app that lists items in a menu and helps folks place orders"
 
   - [source repo](https://github.com/twostraws/iDine)
   - [hackingwithswift.com swiftui-tutorial](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
-- [Puppy adoption app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS)
+- [Wiggles 🐶 app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS)
+  "Beautiful Puppy adoption app built to Demonstrate the use of SwiftUI and MVVM Architecture."
 
   - [source repo](https://github.com/sameersyd/Wiggles-iOS)
 
 - [Clubapartment app](https://github.com/mobilelabclass-itp/06-swiftui.builds)
+  "building cool stuff with swiftui"
 
   - [source repo](https://github.com/FranckNdame/swiftui.builds)
+
+- [Project 8: Moonshot](https://www.hackingwithswift.com/books/ios-swiftui)
+  "Teach users about space history with scroll views"
+  - [source repo](https://github.com/twostraws/HackingWithSwift)
+  - [source article with lots more apps](https://www.hackingwithswift.com/books/ios-swiftui)
 
 ### Saving Data Demos
 
