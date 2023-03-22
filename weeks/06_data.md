@@ -30,10 +30,17 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
   - [source repo](https://github.com/FranckNdame/swiftui.builds)
 
-- [Project 8: Moonshot](https://www.hackingwithswift.com/books/ios-swiftui)
+- [Project 8: Moonshot](https://www.hackingwithswift.com/books/ios-swiftui/moonshot-introduction)
   "Teach users about space history with scroll views"
+  "How can we compose smaller views into larger ones to help keep our project organized?"
+
+  - [source repo sub directory](https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI/project8)
+
+### SwiftUI Other Demos
+
+- [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui/)
   - [source repo](https://github.com/twostraws/HackingWithSwift)
-  - [source article with lots more apps](https://www.hackingwithswift.com/books/ios-swiftui)
+    Follow steps to build app or start with completed app and study to adapt to your needs.
 
 ### Saving Data Demos
 
