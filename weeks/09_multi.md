@@ -1,12 +1,5 @@
 # Week 09 Multi User Experience 1
 
-## Resources
-
-https://github.com/mobilelabclass-itp/10-Location
-
-https://github.com/mobilelabclass-itp/10-Bucketlist
---> 09
-
 ## Plan
 
 - questions
@@ -21,7 +14,7 @@ https://github.com/mobilelabclass-itp/10-Bucketlist
 
 - navigation and data (local and cloud)
 
-### navigation demos revisted
+<!-- ### navigation demos revisted
 
 - [06-TabViewDemo](https://github.com/mobilelabclass-itp/06-TabViewDemo)
 
@@ -39,7 +32,13 @@ https://github.com/mobilelabclass-itp/10-Bucketlist
 -
 - [Puppy adoption app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS) 06-Wiggles-iOS
 - [iDine app](https://github.com/mobilelabclass-itp/iDine) 06-iDine
-  - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
+  - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project) -->
+
+## Location Demo Apps
+
+[09-Location](https://github.com/mobilelabclass-itp/09-Location)
+
+[09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
 
 ### Saving Data - Local
 
@@ -49,14 +48,24 @@ https://github.com/mobilelabclass-itp/10-Bucketlist
 
 ### Saving Data - Cloud
 
-- [07-ChipsSaveCloud](https://github.com/mobilelabclass-itp/07-ChipsSaveCloud)
+- [09-ChipsSaveCloud](https://github.com/mobilelabclass-itp/09-ChipsSaveCloud)
 
 - Resources
   - https://firebase.google.com/docs/firestore
   - https://www.raywenderlich.com/11609977-getting-started-with-cloud-firestore-and-swiftui
-  - https://github.com/frankdulko/gaggle
-  - https://github.com/frankdulko/Gaggle-App
+
+## MoGallery App
+
+- [98-MoGallery-Private](https://github.com/mobilelabclass-itp/98-MoGallery-Private)
+
+  - private repo with MoGallery/MoGallery/GoogleService-Info.plist
+  - run on the your phone to access firebase project configured for this class
+
+- [98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
+  - public repo, no GoogleService-Info.plist
+  - must create your own [firebase project - a container for you app](https://firebase.google.com/)
+  - demo using jhtitp@gmail.com
 
 ## Homework
 
-- [wiki home page week07](https://github.com/mobilelabclass-itp/content-2023/wiki#week-07-homework)
+- [wiki home page week09](https://github.com/mobilelabclass-itp/content-2023/wiki#week-09-homework)
