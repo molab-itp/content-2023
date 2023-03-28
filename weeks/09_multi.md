@@ -58,7 +58,6 @@
 - [98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
-  - demo using jhtitp@gmail.com
 
 ## Firebase Resources
 
