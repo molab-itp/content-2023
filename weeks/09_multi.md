@@ -32,7 +32,7 @@
 - [iDine app](https://github.com/mobilelabclass-itp/iDine) 06-iDine
   - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project) -->
 
-## Location Demo Apps
+## Map Demo Apps
 
 - [09-Location](https://github.com/mobilelabclass-itp/09-Location)
 
@@ -48,10 +48,6 @@
 
 - [09-ChipsSaveCloud](https://github.com/mobilelabclass-itp/09-ChipsSaveCloud)
 
-- Resources
-  - https://firebase.google.com/docs/firestore
-  - https://www.raywenderlich.com/11609977-getting-started-with-cloud-firestore-and-swiftui
-
 ## MoGallery App
 
 - [98-MoGallery-Private](https://github.com/mobilelabclass-itp/98-MoGallery-Private)
@@ -64,6 +60,27 @@
   - must create your own [firebase project - a container for you app](https://firebase.google.com/)
   - demo using jhtitp@gmail.com
 
-## Homework
+## Firebase Resources
 
+### Docs
+
+- https://firebase.google.com/docs/auth
+- https://firebase.google.com/docs/database
+- https://firebase.google.com/docs/firestore
+- https://firebase.google.com/docs/storage
+
+### Firebase Tutorials
+
+- https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
+- https://www.kodeco.com/21133526-firebase-tutorial-getting-started
+- https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat
+- https://www.kodeco.com/4203-beginning-firebase
+
+## Homework 09
+
+- Option 1:
+  - for map Demp app [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
+  - Add a list view of locations and ability to delete an entry
+- Option 2:
+  - setup a firebase project and build one of the firebase toturial apps
 - [wiki home page week09](https://github.com/mobilelabclass-itp/content-2023/wiki#week-09-homework)
