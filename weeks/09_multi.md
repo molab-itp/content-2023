@@ -79,8 +79,8 @@
 ## Homework 09
 
 - Option 1:
-  - for map Demp app [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
+  - Using Map Demo app [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
   - Add a list view of locations and ability to delete an entry
 - Option 2:
-  - setup a firebase project and build one of the firebase toturial apps
+  - setup a firebase project and build one of the firebase tutorial apps
 - [wiki home page week09](https://github.com/mobilelabclass-itp/content-2023/wiki#week-09-homework)
