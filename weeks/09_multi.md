@@ -8,11 +8,9 @@
 
 - summarize your challenges (and progress) on your wiki page
 
-- feedback
-
 - break
 
-- navigation and data (local and cloud)
+- saving data local on the device and remotely in the cloud
 
 <!-- ### navigation demos revisted
 
@@ -36,9 +34,9 @@
 
 ## Location Demo Apps
 
-[09-Location](https://github.com/mobilelabclass-itp/09-Location)
+- [09-Location](https://github.com/mobilelabclass-itp/09-Location)
 
-[09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
+- [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
 
 ### Saving Data - Local
 
@@ -59,7 +57,7 @@
 - [98-MoGallery-Private](https://github.com/mobilelabclass-itp/98-MoGallery-Private)
 
   - private repo with MoGallery/MoGallery/GoogleService-Info.plist
-  - run on the your phone to access firebase project configured for this class
+  - run on the your iOS device to access firebase project configured for this class
 
 - [98-MoGallery](https://github.com/mobilelabclass-itp/98-MoGallery)
   - public repo, no GoogleService-Info.plist
