@@ -75,7 +75,7 @@
 - https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat
 - https://www.kodeco.com/4203-beginning-firebase
 
-## Homework 09
+## Homework09
 
 - Option 1:
   - Using Map Demo app [09-Bucketlist](https://github.com/mobilelabclass-itp/09-Bucketlist)
